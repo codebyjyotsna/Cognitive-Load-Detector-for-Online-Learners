@@ -1,0 +1,5 @@
+blink_rate,cognitive_load
+0.1,low
+0.15,low
+0.25,medium
+0.3,high
